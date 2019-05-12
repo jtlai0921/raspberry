@@ -9,6 +9,9 @@ web:https://github.com/ageitgey/face_recognition
 
 https://gist.github.com/ageitgey/1ac8dbe8572f3f533df6269dab35df65
 
+要多安裝一個檔案
+sudo apt-get install libatlas3-base
+
 安裝這個會失敗->sudo pip3 install picamera[array]
 解決方法:https://www.raspberrypi.org/forums/viewtopic.php?t=221752
 
