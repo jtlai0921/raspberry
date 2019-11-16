@@ -1,1 +1,0 @@
-print("sample2_Hello_World")
