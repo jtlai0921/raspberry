@@ -4,5 +4,7 @@ print("a=",a)
 b=a
 print("b=",b)
 
+#[start:end:step]
+
 
 

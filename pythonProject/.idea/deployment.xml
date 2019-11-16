@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="pi@192.168.2.24:22" autoUploadExternalChanges="true" showNewOnSourceInSync="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="raspberry" autoUploadExternalChanges="true" showNewOnSourceInSync="false">
     <serverData>
-      <paths name="pi@192.168.2.24:22">
+      <paths name="raspberry">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
