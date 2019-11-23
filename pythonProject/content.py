@@ -45,3 +45,36 @@ else:
 
 Woe!
 
+
+color = "puce"
+if color == "red":
+    print("it's a tomato")
+elif color == "green":
+    print("it's a green pepper")
+elif color == "bee purple":
+    print("only bees")
+else:
+    print("another")
+
+another
+x = 7
+x == 5
+False
+x == 7
+True
+5 < x
+True
+x < 10
+True
+5 < x and x < 10
+True
+x < 5 and x < 10
+False
+5 < x or x < 10
+True
+x < 5 or x < 10
+True
+5 < x and not x > 10
+True
+
+
