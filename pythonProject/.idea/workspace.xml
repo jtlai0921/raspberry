@@ -154,7 +154,7 @@
       <workItem from="1573876684644" duration="4217000" />
       <workItem from="1573884512363" duration="2772000" />
       <workItem from="1574473782432" duration="74000" />
-      <workItem from="1574473975960" duration="4022000" />
+      <workItem from="1574473975960" duration="4428000" />
     </task>
     <servers />
   </component>
@@ -167,8 +167,39 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="student11_09" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="student11_09" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
