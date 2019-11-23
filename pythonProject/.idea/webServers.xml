@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="7c38294d-6dd6-4bb3-a34d-b0bab9a59872" name="raspberry" url="http://192.168.2.24">
-        <fileTransfer host="192.168.2.24" port="22" rootFolder="/home/pi/Documents/pythonProject" accessType="SFTP">
+        <fileTransfer host="192.168.2.24" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

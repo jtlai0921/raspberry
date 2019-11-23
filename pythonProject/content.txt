@@ -1,0 +1,13 @@
+
+furry = True
+small = True
+furry = True
+small = True
+furry = True
+small = True
+if furry:
+    print("It's a cat")
+else:
+    print("It's a skink!")
+
+It's a cat
