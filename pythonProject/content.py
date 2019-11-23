@@ -27,10 +27,20 @@ b
 'Chico'
 c
 'Harpo'
-
+'''
 empty_dict = {}
 empty_dict
 {}
 lol = {1:'one', 2:'two'}
 lol
 {1: 'one', 2: 'two'}
+
+'''
+
+disaster = True
+if disaster:
+    print("Woe!")
+else:
+    print("Whee!")
+
+Woe!
