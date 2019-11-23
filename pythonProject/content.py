@@ -7,3 +7,23 @@ if a < b:
 else:
     print("world")
 
+empty_tuple = ()
+empty_tuple
+()
+one_marx = 'Groucho',
+one_marx
+('Groucho',)
+marx_tuple = 'Groucho', 'Chico', 'Harpo'
+marx_typle
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+NameError: name 'marx_typle' is not defined
+marx_tuple
+('Groucho', 'Chico', 'Harpo')
+a, b, c = marx_tuple
+a
+'Groucho'
+b
+'Chico'
+c
+'Harpo'

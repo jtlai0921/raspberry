@@ -12,11 +12,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1TgLEsmfGchepy4Zqlky73Bg9SV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,8 +29,8 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/exaple.py" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,7 +154,7 @@
       <workItem from="1573876684644" duration="4217000" />
       <workItem from="1573884512363" duration="2772000" />
       <workItem from="1574473782432" duration="74000" />
-      <workItem from="1574473975960" duration="2294000" />
+      <workItem from="1574473975960" duration="4022000" />
     </task>
     <servers />
   </component>
