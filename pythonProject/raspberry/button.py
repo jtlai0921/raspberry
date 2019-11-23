@@ -1,0 +1,11 @@
+#!/usr/bin/python3.7
+
+from gpiozero import Button
+
+if __name__ == "__main__":
+    btn = Button(18)
+    while True:
+        if btn.is_pressed:
+            print("按鈕被按");
+        else:
+            print("按鈕沒有被按")
