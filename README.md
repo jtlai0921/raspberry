@@ -6,3 +6,6 @@ https://youtu.be/-ENBs-1ugw8
 
 ### 2019_11_16_raspberry3
 https://youtu.be/SR5RJMI9mxo
+
+### 2019_11_23_raspberry4
+https://youtu.be/IyRIZH_sC4Q
