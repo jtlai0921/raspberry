@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7178e5d7-e674-42ea-ab04-0768aad3bddb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Firebase_GPIO_tkinter/1LEDControl/a1_LEDControl - nothing.fzz" beforeDir="false" afterPath="$PROJECT_DIR$/../Firebase_GPIO_tkinter/1LEDControl/a1_LEDControl - nothing.fzz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase_GPIO_tkinter/1LEDControl/a1_LEDControl - nothing_bb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ledControl1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ledControl1.py" afterDir="false" />
     </list>
@@ -63,7 +66,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -243,7 +246,7 @@
       <workItem from="1574473782432" duration="74000" />
       <workItem from="1574473975960" duration="16660000" />
       <workItem from="1575082765146" duration="21000" />
-      <workItem from="1575092394468" duration="5353000" />
+      <workItem from="1575092394468" duration="7077000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1574479827642</created>
@@ -343,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575096956783</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="modify">
+      <created>1575098087588</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575098087589</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
