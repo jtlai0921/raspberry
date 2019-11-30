@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7178e5d7-e674-42ea-ab04-0768aad3bddb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ledControl1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/window1.py" beforeDir="false" afterPath="$PROJECT_DIR$/window1.py" afterDir="false" />
     </list>
@@ -63,7 +64,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -243,7 +244,7 @@
       <workItem from="1574473782432" duration="74000" />
       <workItem from="1574473975960" duration="16660000" />
       <workItem from="1575082765146" duration="21000" />
-      <workItem from="1575092394468" duration="1447000" />
+      <workItem from="1575092394468" duration="4394000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1574479827642</created>
@@ -329,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575092850508</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="modify">
+      <created>1575094075508</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575094075508</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
