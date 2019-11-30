@@ -14,9 +14,8 @@ def userClick():
 if __name__ == "__main__":
     master = Tk()
     master.title("LED 開關")
-    Button(master, text="you shot me", padx=70, pady=30, command=userClick).pack(padx=20, pady=20)
-
-    #led
-    led.on()
+    frame = Frame(master, borderwidth=2, relief=GROOVE)
+    Button(frame, text="you shot me", padx=70, pady=30, command=userClick).pack(padx=20, pady=20)
+    frame.pack(padx=10, pady=10)
     mainloop()
 
