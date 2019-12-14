@@ -3,22 +3,18 @@ from tkinter import *
 
 class App:
     def __init__(self, master):
-        frame = Frame(master)
-        Button(frame, text='Left').pack(side=TOP, anchor=W, expand=YES, fill=BOTH)
-        Button(frame, text='Center').pack(side=TOP, anchor=W, expand=YES, fill=BOTH)
-        Button(frame, text='Right').pack(side=TOP, anchor=W, expand=YES, fill=BOTH)
-        frame.pack(side=LEFT, expand=YES, fill=BOTH)
-
-        frame1 = Frame(master)
-        Button(frame1, text='Left').pack(side=LEFT, anchor=W, expand=YES, fill=BOTH)
-        Button(frame1, text='Center').pack(side=LEFT, anchor=W, expand=YES, fill=BOTH)
-        Button(frame1, text='Right').pack(side=LEFT, anchor=W, expand=YES, fill=BOTH)
-        frame1.pack(side=RIGHT, expand=YES, fill=BOTH)
 
         frame2 = Frame(master)
         Label(frame2, text="First").grid(row=0, column=0, sticky=E)
         Label(frame2, text="Second").grid(row=1, column=0, sticky=E)
-        frame2.pack(side=TOP, expand=YES, fill=BOTH)
+        Entry(frame2).grid(row=0, column=1)
+        Entry(frame2).grid(row=1, column=1)
+        Checkbutton(frame2, text='Preserve aspec').grid(row=2, column=0, columnspan=2, sticky=W)
+        photo = PhotoImage(file='images.gif')
+        label = Label(image=photo)
+        label.image = photo
+        label.grid(row=0, column=2, rowspan=2)
+        frame2.pack(side=BOTTOM, expand=YES, fill=BOTH)
 
 
 if __name__ == '__main__':
