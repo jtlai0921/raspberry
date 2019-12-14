@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7178e5d7-e674-42ea-ab04-0768aad3bddb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinterLayout.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +81,9 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonLocalProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tkinterLayout.py" />
     <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/tkinterLayout.py" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -269,7 +267,7 @@
       <workItem from="1575684364965" duration="21000" />
       <workItem from="1575685504428" duration="55000" />
       <workItem from="1575702594482" duration="4533000" />
-      <workItem from="1576289658405" duration="714000" />
+      <workItem from="1576289658405" duration="3350000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1574479827642</created>
@@ -418,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575706601745</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="modify">
+      <created>1576290477676</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1576290477676</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,10 +542,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="modify" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1575706600816">
+    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1576290476145">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1575706600816" />
+    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1576290476145" />
+    <state x="108" y="210" width="1096" height="800" key="DiffContextDialog" timestamp="1576292823066">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="108" y="210" width="1096" height="800" key="DiffContextDialog/0.0.1280.984@0.0.1280.984" timestamp="1576292823066" />
+    <state x="370" y="186" key="FileChooserDialogImpl" timestamp="1576292775484">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="186" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1576292775484" />
     <state width="1227" height="251" key="GridCell.Tab.0.bottom" timestamp="1575707241448">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -557,22 +570,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1227" height="251" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1575707241448" />
-    <state x="28" y="50" key="SettingsEditor" timestamp="1576290399303">
+    <state x="28" y="50" key="SettingsEditor" timestamp="1576293485874">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1576290399303" />
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1575706610655">
+    <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1576293485874" />
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1576290480020">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1575706610655" />
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1576290480020" />
     <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1576289663008">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="273" y="274" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1576289663008" />
-    <state x="499" y="164" width="457" height="655" key="ftp.server.browser" timestamp="1576290367964">
+    <state x="499" y="164" width="457" height="655" key="ftp.server.browser" timestamp="1576293047538">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="499" y="164" width="457" height="655" key="ftp.server.browser/0.0.1280.984@0.0.1280.984" timestamp="1576290367964" />
+    <state x="499" y="164" width="457" height="655" key="ftp.server.browser/0.0.1280.984@0.0.1280.984" timestamp="1576293047538" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$window1.coverage" NAME="window1 Coverage Results" MODIFIED="1575706540788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
