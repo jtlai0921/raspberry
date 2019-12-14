@@ -2,13 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7178e5d7-e674-42ea-ab04-0768aad3bddb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack.py" beforeDir="false" afterPath="$PROJECT_DIR$/pack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -251,7 +268,8 @@
       <workItem from="1575092394468" duration="9764000" />
       <workItem from="1575684364965" duration="21000" />
       <workItem from="1575685504428" duration="55000" />
-      <workItem from="1575702594482" duration="3876000" />
+      <workItem from="1575702594482" duration="4533000" />
+      <workItem from="1576289658405" duration="714000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1574479827642</created>
@@ -393,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575705546390</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="modify">
+      <created>1575706601745</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1575706601745</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,34 +537,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="modify" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1575705545439">
+    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1575706600816">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1575705545439" />
-    <state width="1227" height="251" key="GridCell.Tab.0.bottom" timestamp="1575706540796">
+    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1575706600816" />
+    <state width="1227" height="251" key="GridCell.Tab.0.bottom" timestamp="1575707241448">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1227" height="251" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1575706540796" />
-    <state width="1227" height="251" key="GridCell.Tab.0.center" timestamp="1575706540795">
+    <state width="1227" height="251" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1575707241448" />
+    <state width="1227" height="251" key="GridCell.Tab.0.center" timestamp="1575707241447">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1227" height="251" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1575706540795" />
-    <state width="1227" height="251" key="GridCell.Tab.0.left" timestamp="1575706540795">
+    <state width="1227" height="251" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1575707241447" />
+    <state width="1227" height="251" key="GridCell.Tab.0.left" timestamp="1575707241447">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1227" height="251" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1575706540795" />
-    <state width="1227" height="251" key="GridCell.Tab.0.right" timestamp="1575706540796">
+    <state width="1227" height="251" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1575707241447" />
+    <state width="1227" height="251" key="GridCell.Tab.0.right" timestamp="1575707241448">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1227" height="251" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1575706540796" />
-    <state x="28" y="50" key="SettingsEditor" timestamp="1575704095650">
+    <state width="1227" height="251" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1575707241448" />
+    <state x="28" y="50" key="SettingsEditor" timestamp="1576290399303">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1575704095650" />
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1575705549103">
+    <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1576290399303" />
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1575706610655">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1575705549103" />
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1575706610655" />
+    <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1576289663008">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="273" y="274" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1576289663008" />
+    <state x="499" y="164" width="457" height="655" key="ftp.server.browser" timestamp="1576290367964">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="499" y="164" width="457" height="655" key="ftp.server.browser/0.0.1280.984@0.0.1280.984" timestamp="1576290367964" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$window1.coverage" NAME="window1 Coverage Results" MODIFIED="1575706540788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
