@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06d1092f-9c3f-44ff-8354-02e36348fc70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pythonProject/images.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject/tkinterLayout6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/tkinterLayout6.py" afterDir="false" />
@@ -73,7 +72,7 @@
       <workItem from="1575688040976" duration="30000" />
       <workItem from="1575688245774" duration="9528000" />
       <workItem from="1576296884397" duration="650000" />
-      <workItem from="1576302090946" duration="621000" />
+      <workItem from="1576302090946" duration="1193000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1575087370231</created>
