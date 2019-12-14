@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06d1092f-9c3f-44ff-8354-02e36348fc70" name="Default Changelist" comment="" />
+    <list default="true" id="06d1092f-9c3f-44ff-8354-02e36348fc70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/tkinterLayout1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/tkinterLayout.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/tkinterLayout.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +38,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonProject" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="ServiceViewManager">
@@ -65,6 +74,8 @@
       <workItem from="1575687824693" duration="45000" />
       <workItem from="1575688040976" duration="30000" />
       <workItem from="1575688245774" duration="9528000" />
+      <workItem from="1576296884397" duration="650000" />
+      <workItem from="1576302090946" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1575087370231</created>
@@ -171,6 +182,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="153" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1575700729188" />
+    <state x="370" y="186" key="FileChooserDialogImpl" timestamp="1576302107711">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="186" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1576302107711" />
     <state width="1227" height="5" key="GridCell.Tab.0.bottom" timestamp="1575689026834">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -195,9 +210,9 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1575700731811" />
-    <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1575688249253">
+    <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1576302093353">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="273" y="274" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1575688249253" />
+    <state x="273" y="274" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1576302093353" />
   </component>
 </project>
