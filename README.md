@@ -12,3 +12,6 @@ https://youtu.be/IyRIZH_sC4Q
 
 ### 2019_12_7_raspberry5
 https://youtu.be/TO_1l4pxqWc
+
+### 2019_12_14_raspberry6
+https://youtu.be/b9jnQBsgcig
