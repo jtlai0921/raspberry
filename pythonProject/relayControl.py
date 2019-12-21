@@ -10,7 +10,12 @@ class App:
         self.relay = Relay(25)
 
         #firebase initial
-        default_app = firebase_admin.initialize_app()
+        cred =credentials.Certificate("/home/pi/Documents/certificate/raspberryfirebase-firebase-adminsdk-y4f0x-65514e121f.json")
+        default_app = firebase_admin.initialize_app(cred, {
+    'databaseURL': 'https://raspberryfirebase.firebaseio.com/'
+})
+        self.ledControlRef = db.reference('iot1221/relayControl')
+        print(self.ledControlRef.get());
 
         #interface
         self.buttonText = StringVar();
