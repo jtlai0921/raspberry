@@ -679,10 +679,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="132" y="63" key="#Inspections/0.0.1280.984@0.0.1280.984" timestamp="1576306135085" />
-    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1576912804893">
+    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1576914286725">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1576912804893" />
+    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1576914286725" />
     <state x="108" y="210" width="1096" height="800" key="DiffContextDialog" timestamp="1576292823066">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -707,6 +707,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1227" height="251" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1576312359757" />
+    <state x="322" y="132" key="RollbackChangesDialog" timestamp="1576914340371">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="322" y="132" key="RollbackChangesDialog/0.0.1280.984@0.0.1280.984" timestamp="1576914340371" />
     <state x="28" y="50" key="SettingsEditor" timestamp="1576902743202">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
