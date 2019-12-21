@@ -35,8 +35,10 @@ class App:
         print("Event Data:{},Event paht:{}".format(event.data, event.path))
         if event.data:
             self.buttonText.set("CLOSE")
+            self.relay.on()
         else:
             self.buttonText.set("OPEN")
+            self.relay.off()
         pass
 
 
