@@ -1,10 +1,16 @@
 from tkinter import *
 from gpiozero import LED as Relay
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import db
 
 
 class App:
     def __init__(self, window):
         self.relay = Relay(25)
+
+        #firebase initial
+        default_app = firebase_admin.initialize_app()
 
         #interface
         self.buttonText = StringVar();
