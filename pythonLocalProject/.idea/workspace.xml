@@ -4,7 +4,6 @@
     <list default="true" id="06d1092f-9c3f-44ff-8354-02e36348fc70" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/tkinterLayout6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/tkinterLayout6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,9 @@
       <workItem from="1575688040976" duration="30000" />
       <workItem from="1575688245774" duration="9528000" />
       <workItem from="1576296884397" duration="650000" />
-      <workItem from="1576302090946" duration="1193000" />
+      <workItem from="1576302090946" duration="1219000" />
+      <workItem from="1576892736802" duration="323000" />
+      <workItem from="1576893094979" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1575087370231</created>
@@ -207,9 +208,9 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1575700731811" />
-    <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1576302093353">
+    <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1576892737058">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="273" y="274" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1576302093353" />
+    <state x="273" y="274" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1576892737058" />
   </component>
 </project>
