@@ -10,6 +10,14 @@ def interface(w):
     w.geometry("600x200")
     w.wm_resizable(height=False, width=False)
 
+    menuFrame = Frame(w,bg='purple',width=200)
+
+    menuFrame.pack(side=LEFT, expand=YES,fill=BOTH)
+
+    rightFrame = Frame(w, bg='gray',width=400)
+
+    rightFrame.pack(side=LEFT, expand=YES, fill=BOTH)
+
 
 
 if __name__ == "__main__":
