@@ -11,7 +11,8 @@ def interface(w):
     w.wm_resizable(height=False, width=False)
 
     menuFrame = Frame(w,bg='purple',width=200)
-
+    lineFrame = Frame(menuFrame,borderwidth=2,relief=GROOVE,width=200,bg='purple')
+    lineFrame.pack(expand=YES, fill=BOTH,padx=10,pady=10)
     menuFrame.pack(side=LEFT, expand=YES,fill=BOTH)
 
     rightFrame = Frame(w, bg='gray',width=400)
