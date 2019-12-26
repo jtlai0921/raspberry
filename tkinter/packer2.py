@@ -2,6 +2,8 @@
 """ docString"""
 from tkinter import *
 
+def readText():
+    print('button click')
 
 def interface(w):
     """ 建立介面 """
@@ -12,7 +14,7 @@ def interface(w):
 
     menuFrame = Frame(w,bg='purple',width=200)
     lineFrame = Frame(menuFrame,borderwidth=2,relief=GROOVE,width=200,bg='purple')
-    Button(lineFrame,text='讀入text').pack(fill=BOTH,expand=TRUE)
+    Button(lineFrame,text='讀入text', command=readText).pack(fill=BOTH,expand=TRUE)
     Button(lineFrame, text='ok2').pack(fill=BOTH,expand=TRUE,pady=5)
     Button(lineFrame, text='ok3').pack(fill=BOTH,expand=TRUE)
     lineFrame.pack(expand=YES, fill=BOTH,padx=10,pady=10)
