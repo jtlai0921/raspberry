@@ -3,7 +3,10 @@
 from tkinter import *
 
 def readText():
-    print('button click')
+    fileObject = open('news.txt','rt',encoding="utf-8")
+    content = fileObject.read()
+    fileObject.close()
+    print(content)
 
 def interface(w):
     """ 建立介面 """
