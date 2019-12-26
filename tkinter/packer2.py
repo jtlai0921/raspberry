@@ -3,9 +3,9 @@
 from tkinter import *
 
 def readText():
-    fileObject = open('news.txt','rt',encoding="utf-8")
-    content = fileObject.read()
-    fileObject.close()
+    with open('news.txt','rt',encoding="utf-8") as fileObject:
+        content = fileObject.read()
+
     print(content)
 
 def interface(w):
