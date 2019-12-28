@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7178e5d7-e674-42ea-ab04-0768aad3bddb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/buzzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MFRC522-python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-Py/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-Py/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-Py/memory_leak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-Py/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-Py/spi.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-Py/test_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFRC522-python/MFRC522.py" beforeDir="false" afterPath="$PROJECT_DIR$/MFRC522-python/MFRC522.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MFRC522-python/Read.py" beforeDir="false" afterPath="$PROJECT_DIR$/MFRC522-python/Read.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rfid.py" beforeDir="false" afterPath="$PROJECT_DIR$/rfid.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +78,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="JupyterTrust" id="36e67c31-7550-495d-a869-28b914882288" />
   <component name="ProjectId" id="1TgLEsmfGchepy4Zqlky73Bg9SV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -284,7 +296,7 @@
       <workItem from="1576895543306" duration="5991000" />
       <workItem from="1576907170324" duration="6605000" />
       <workItem from="1577497244165" duration="340000" />
-      <workItem from="1577497825435" duration="7209000" />
+      <workItem from="1577497825435" duration="13234000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1574479827642</created>
@@ -594,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577507452741</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="modify">
+      <created>1577507724643</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1577507724643</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -713,14 +732,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="modify" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="132" y="63" key="#Deployment" timestamp="1577519217878">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="132" y="63" key="#Deployment/0.0.1280.984@0.0.1280.984" timestamp="1577519217878" />
     <state x="132" y="63" key="#Inspections" timestamp="1576306135085">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="132" y="63" key="#Inspections/0.0.1280.984@0.0.1280.984" timestamp="1576306135085" />
-    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1577507451694">
+    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1577507723617">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1577507451694" />
+    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1577507723617" />
     <state x="108" y="210" width="1096" height="800" key="DiffContextDialog" timestamp="1576292823066">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -753,18 +776,18 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1577499764877" />
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1577507454428">
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1577507726287">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1577507454428" />
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1577507726287" />
     <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1577497827554">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="273" y="274" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1577497827554" />
-    <state x="499" y="164" width="457" height="655" key="ftp.server.browser" timestamp="1576296176996">
+    <state x="499" y="164" width="457" height="655" key="ftp.server.browser" timestamp="1577519211047">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="499" y="164" width="457" height="655" key="ftp.server.browser/0.0.1280.984@0.0.1280.984" timestamp="1576296176996" />
+    <state x="499" y="164" width="457" height="655" key="ftp.server.browser/0.0.1280.984@0.0.1280.984" timestamp="1577519211047" />
     <state x="360" y="385" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1576306158136">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

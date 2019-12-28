@@ -7,6 +7,9 @@
           <mappings>
             <mapping deploy="/home/pi/Documents/gjunProject" local="$PROJECT_DIR$" />
           </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/pi/Documents/gjunProject/env1109" />
+          </excludedPaths>
         </serverdata>
       </paths>
       <paths name="raspberry">
