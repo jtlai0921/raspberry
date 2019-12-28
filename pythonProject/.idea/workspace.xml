@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7178e5d7-e674-42ea-ab04-0768aad3bddb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pythonLocalProject/report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/fswebcam.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/i2c_lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/inoutboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/inquiry-with-rssi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/inquiry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/lcd_4dice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/lcd_dice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/lcd_display.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/lcd_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/led_dice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/led_rand.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/led_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/mysql_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/send_gmail_attachment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/startup_script.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/take_picture_and_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCD/whoshome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonLocalProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonLocalProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rfid.py" beforeDir="false" afterPath="$PROJECT_DIR$/rfid.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,7 +283,7 @@
       <workItem from="1576895543306" duration="5991000" />
       <workItem from="1576907170324" duration="6605000" />
       <workItem from="1577497244165" duration="340000" />
-      <workItem from="1577497825435" duration="5516000" />
+      <workItem from="1577497825435" duration="6947000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1574479827642</created>
@@ -600,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576914388277</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="modify">
+      <created>1577505855750</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1577505855750</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -723,10 +709,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="132" y="63" key="#Inspections/0.0.1280.984@0.0.1280.984" timestamp="1576306135085" />
-    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1576914387324">
+    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1577505854184">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1576914387324" />
+    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1577505854184" />
     <state x="108" y="210" width="1096" height="800" key="DiffContextDialog" timestamp="1576292823066">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -759,10 +745,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1577499764877" />
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1576914390027">
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1577505860487">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1576914390027" />
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1577505860487" />
     <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1577497827554">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
