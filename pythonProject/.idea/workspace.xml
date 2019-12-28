@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7178e5d7-e674-42ea-ab04-0768aad3bddb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MFRC522-python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPI-Py/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPI-Py/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPI-Py/memory_leak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPI-Py/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPI-Py/spi.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPI-Py/test_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MFRC522-python/MFRC522.py" beforeDir="false" afterPath="$PROJECT_DIR$/MFRC522-python/MFRC522.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MFRC522-python/Read.py" beforeDir="false" afterPath="$PROJECT_DIR$/MFRC522-python/Read.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rfid.py" beforeDir="false" afterPath="$PROJECT_DIR$/rfid.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -296,7 +284,7 @@
       <workItem from="1576895543306" duration="5991000" />
       <workItem from="1576907170324" duration="6605000" />
       <workItem from="1577497244165" duration="340000" />
-      <workItem from="1577497825435" duration="13234000" />
+      <workItem from="1577497825435" duration="14454000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1574479827642</created>
@@ -613,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577507724643</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="modify">
+      <created>1577520020156</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1577520020156</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -740,10 +735,14 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="132" y="63" key="#Inspections/0.0.1280.984@0.0.1280.984" timestamp="1576306135085" />
-    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1577507723617">
+    <state x="132" y="63" key="#Notifications" timestamp="1577520455375">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1577507723617" />
+    <state x="132" y="63" key="#Notifications/0.0.1280.984@0.0.1280.984" timestamp="1577520455375" />
+    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1577520018239">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1577520018239" />
     <state x="108" y="210" width="1096" height="800" key="DiffContextDialog" timestamp="1576292823066">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -776,10 +775,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1577499764877" />
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1577507726287">
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1577520022156">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1577507726287" />
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1577520022156" />
     <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1577497827554">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
