@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7178e5d7-e674-42ea-ab04-0768aad3bddb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../pythonLocalProject/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/fswebcam.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/i2c_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/inoutboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/inquiry-with-rssi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/inquiry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/lcd_4dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/lcd_dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/lcd_display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/lcd_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/led_dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/led_rand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/led_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/mysql_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/send_gmail_attachment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/startup_script.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/take_picture_and_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCD/whoshome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rfid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonLocalProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonLocalProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/relayControl.py" beforeDir="false" afterPath="$PROJECT_DIR$/relayControl.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +105,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonLocalProject" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/tkinterLayout.py" />
   </component>
@@ -95,6 +116,13 @@
         <option name="myModuleName" value="pythonProject" />
       </console-settings>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\teacher\Documents\GitHub\raspberry\pythonProject" />
+      <recent name="C:\Users\teacher\Documents\GitHub\raspberry\pythonProject\LCD" />
+      <recent name="C:\Users\teacher\Documents\GitHub\raspberry\pythonProject\LCD\I2C" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.window1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -274,7 +302,9 @@
       <workItem from="1576302111377" duration="9549000" />
       <workItem from="1576893206449" duration="1980000" />
       <workItem from="1576895543306" duration="5991000" />
-      <workItem from="1576907170324" duration="5898000" />
+      <workItem from="1576907170324" duration="6605000" />
+      <workItem from="1577497244165" duration="340000" />
+      <workItem from="1577497825435" duration="5516000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1574479827642</created>
@@ -556,7 +586,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576912805877</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="modify">
+      <created>1576914279193</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1576914279193</updated>
+    </task>
+    <task id="LOCAL-00042" summary="modify">
+      <created>1576914388277</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1576914388277</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -679,18 +723,18 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="132" y="63" key="#Inspections/0.0.1280.984@0.0.1280.984" timestamp="1576306135085" />
-    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1576914286725">
+    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1576914387324">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1576914286725" />
+    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1576914387324" />
     <state x="108" y="210" width="1096" height="800" key="DiffContextDialog" timestamp="1576292823066">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="108" y="210" width="1096" height="800" key="DiffContextDialog/0.0.1280.984@0.0.1280.984" timestamp="1576292823066" />
-    <state x="370" y="186" key="FileChooserDialogImpl" timestamp="1576296857623">
+    <state x="370" y="186" key="FileChooserDialogImpl" timestamp="1577498862535">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="370" y="186" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1576296857623" />
+    <state x="370" y="186" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1577498862535" />
     <state width="1227" height="251" key="GridCell.Tab.0.bottom" timestamp="1576312359757">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -711,18 +755,18 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="322" y="132" key="RollbackChangesDialog/0.0.1280.984@0.0.1280.984" timestamp="1576914340371" />
-    <state x="28" y="50" key="SettingsEditor" timestamp="1576902743202">
+    <state x="28" y="50" key="SettingsEditor" timestamp="1577499764877">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1576902743202" />
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1576912807346">
+    <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1577499764877" />
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1576914390027">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1576912807346" />
-    <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1576895543322">
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1576914390027" />
+    <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1577497827554">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="273" y="274" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1576895543322" />
+    <state x="273" y="274" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1577497827554" />
     <state x="499" y="164" width="457" height="655" key="ftp.server.browser" timestamp="1576296176996">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
