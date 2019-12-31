@@ -9,6 +9,9 @@ def readText():
 
 def writeContent():
     print('您輸入的是:%s' % entryVariable.get())
+    with open('news.txt', 'at',encoding='utf-8') as fileObject:
+        print(entryVariable.get(),file=fileObject)
+    entryVariable.set("")
 
 def interface(w):
     """ 建立介面 """
