@@ -24,8 +24,11 @@ def interface(w):
     menuFrame.pack(side=LEFT, expand=YES,fill=BOTH)
 
     rightFrame = Frame(w, bg='gray',width=400)
-
+    Label(rightFrame,text="輸入文字:").pack(side=LEFT, padx=5, pady=10)
+    e = StringVar();
+    Entry(rightFrame,width=50,textvariable=e).pack(side=LEFT)
     rightFrame.pack(side=LEFT, expand=YES, fill=BOTH)
+    e.set("Hello!World")
 
 
 
