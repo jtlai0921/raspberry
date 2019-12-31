@@ -4,7 +4,12 @@ from tkinter import *
 
 def readText():
     with open('news.txt','rt',encoding="utf-8") as fileObject:
-        content = fileObject.read()
+        content = ''
+        while True:
+            line = fileObject.readline()
+            if not line:
+                break
+            content += line
     print(content)
 
 def writeContent():
