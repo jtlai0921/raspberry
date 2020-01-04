@@ -18,11 +18,18 @@ class App:
             scanStatus, self.uid = self.MIFAREReader.MFRC522_Anticoll()
             if scanStatus == MFRC522.MI_OK:
                 if self.uid != self.preUid:
-                    print(self.uid)
                     self.preUid = self.uid
+                    #在lcd上顯示
+                    self.displayInLcd()
 
         Timer(0.1, self.rfidHandler).start()
 
+    def displayInLcd(self):
+        uidString = ''
+        for uid in self.uid:
+           uidString += ' '
+           uidString += str(uid)
+        print(uidString)
 
 
 

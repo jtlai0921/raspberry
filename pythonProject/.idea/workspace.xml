@@ -288,7 +288,7 @@
       <workItem from="1578101746084" duration="416000" />
       <workItem from="1578102406339" duration="22000" />
       <workItem from="1578102634156" duration="2848000" />
-      <workItem from="1578106285763" duration="3210000" />
+      <workItem from="1578106285763" duration="5673000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1574479827642</created>
@@ -626,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578108325320</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="modify">
+      <created>1578111187036</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1578111187036</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -757,10 +764,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="132" y="63" key="#Notifications/0.0.1280.984@0.0.1280.984" timestamp="1577520455375" />
-    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1578108323966">
+    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1578111186024">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1578108323966" />
+    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1578111186024" />
     <state x="108" y="210" width="1096" height="800" key="DiffContextDialog" timestamp="1576292823066">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -793,10 +800,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1578107194846" />
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578108327164">
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578111188906">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1578108327164" />
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1578111188906" />
     <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1578106324961">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
