@@ -8,7 +8,7 @@ from firebase_admin import firestore
 
 
 class App:
-    def __init__(self,window):
+    def __init__(self, window):
         self.uid = []
         self.preUid = []
         self.MIFAREReader = MFRC522()
@@ -18,7 +18,7 @@ class App:
         #initialFireStore
         cred = credentials.Certificate('/home/pi/Documents/certificate/raspberryfirebase-firebase-adminsdk-y4f0x-65514e121f.json')
         firebase_admin.initialize_app(cred)
-        doors = firestore.client()
+        self.doors_ref = firestore.client()
 
     def rfidHandler(self): #0.1秒執行一次
         reqStatus, tagType = self.MIFAREReader.MFRC522_Request(MFRC522.PICC_REQIDL)
@@ -33,6 +33,7 @@ class App:
         Timer(0.1, self.rfidHandler).start()
 
     def displayInLcd(self):
+        document_ref = self.doors_ref.collection(u'Doors').document()
         uidString = ''
         for index, uid in enumerate(self.uid):
            uidString += str(uid)
@@ -40,6 +41,7 @@ class App:
 
         self.lcd.clear()
         self.lcd.display_string(uidString, 0)
+        document_ref.set({'uid': self.uid})
 
 
 
