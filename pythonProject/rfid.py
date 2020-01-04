@@ -11,6 +11,7 @@ class App:
         self.preUid = []
         self.MIFAREReader = MFRC522()
         self.rfidHandler()
+        self.lcd = lcd()
 
     def rfidHandler(self): #0.1秒執行一次
         reqStatus, tagType = self.MIFAREReader.MFRC522_Request(MFRC522.PICC_REQIDL)
@@ -26,10 +27,12 @@ class App:
 
     def displayInLcd(self):
         uidString = ''
-        for uid in self.uid:
-           uidString += ' '
+        for index, uid in enumerate(self.uid):
            uidString += str(uid)
-        print(uidString)
+           uidString += ' '
+
+        self.lcd.clear()
+        self.lcd.display_string(uidString, 0)
 
 
 
