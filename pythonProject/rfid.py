@@ -8,19 +8,19 @@ from threading import Timer
 class App:
     def __init__(self,window):
         self.uid = []
-        self.preUid0 = 0
-        self.preUid1 = 0
-        self.preUid2 = 0
-        self.preUid3 = 0
+        self.preUid = []
         self.MIFAREReader = MFRC522()
         self.rfidHandler()
 
     def rfidHandler(self): #0.1秒執行一次
-        status, tagType = self.MIFAREReader.MFRC522_Request(MFRC522.PICC_REQIDL)
-        if status != MFRC522.MI_OK:
-            print("狀態不是ok")
-        else:
-            print("狀態ok")
+        reqStatus, tagType = self.MIFAREReader.MFRC522_Request(MFRC522.PICC_REQIDL)
+        if reqStatus == MFRC522.MI_OK:
+            scanStatus, self.uid = self.MIFAREReader.MFRC522_Anticoll()
+            if scanStatus == MFRC522.MI_OK:
+                if self.uid != self.preUid:
+                    print(self.uid)
+                    self.preUid = self.uid
+
         Timer(0.1, self.rfidHandler).start()
 
 
