@@ -1,8 +1,10 @@
 from LCD.lcd_display import lcd
-from time import sleep
 from mfrc522 import MFRC522
 from tkinter import *
 from threading import Timer
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import firestore
 
 
 class App:
@@ -12,6 +14,11 @@ class App:
         self.MIFAREReader = MFRC522()
         self.rfidHandler()
         self.lcd = lcd()
+
+        #initialFireStore
+        cred = credentials.Certificate('/home/pi/Documents/certificate/raspberryfirebase-firebase-adminsdk-y4f0x-65514e121f.json')
+        firebase_admin.initialize_app(cred)
+        doors = firestore.client()
 
     def rfidHandler(self): #0.1秒執行一次
         reqStatus, tagType = self.MIFAREReader.MFRC522_Request(MFRC522.PICC_REQIDL)

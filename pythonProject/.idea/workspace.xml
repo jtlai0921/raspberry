@@ -288,14 +288,7 @@
       <workItem from="1578101746084" duration="416000" />
       <workItem from="1578102406339" duration="22000" />
       <workItem from="1578102634156" duration="2848000" />
-      <workItem from="1578106285763" duration="7560000" />
-    </task>
-    <task id="LOCAL-00002" summary="modify">
-      <created>1574479872902</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1574479872902</updated>
+      <workItem from="1578106285763" duration="9842000" />
     </task>
     <task id="LOCAL-00003" summary="modify">
       <created>1574480444612</created>
@@ -633,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578117014196</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="modify">
+      <created>1578118858178</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1578118858178</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -764,10 +764,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="132" y="63" key="#Notifications/0.0.1280.984@0.0.1280.984" timestamp="1577520455375" />
-    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1578117013241">
+    <state x="187" y="17" key="CommitChangelistDialog2" timestamp="1578118857230">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1578117013241" />
+    <state x="187" y="17" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1578118857230" />
     <state x="108" y="210" width="1096" height="800" key="DiffContextDialog" timestamp="1576292823066">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -796,14 +796,14 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="322" y="132" key="RollbackChangesDialog/0.0.1280.984@0.0.1280.984" timestamp="1576914340371" />
-    <state x="28" y="50" key="SettingsEditor" timestamp="1578107194846">
+    <state x="28" y="50" key="SettingsEditor" timestamp="1578123803415">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1578107194846" />
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578117016334">
+    <state x="28" y="50" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1578123803415" />
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578118859616">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1578117016334" />
+    <state x="132" y="146" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1578118859616" />
     <state x="273" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1578106324961">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
